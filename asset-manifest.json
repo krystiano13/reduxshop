@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reduxshop/static/css/main.784e28e2.css",
+    "main.js": "/reduxshop/static/js/main.20f7d526.js",
+    "static/media/i9_9900k.jpg": "/reduxshop/static/media/i9_9900k.be3152b7845cacb4c779.jpg",
+    "static/media/2070.jpg": "/reduxshop/static/media/2070.8924fbcb3a5d4ffecefa.jpg",
+    "static/media/mx5001.jpg": "/reduxshop/static/media/mx5001.cb32d30f9315120d0e44.jpg",
+    "static/media/radeon.jpg": "/reduxshop/static/media/radeon.df5003386b3f1ba907df.jpg",
+    "static/media/mxmaster.webp": "/reduxshop/static/media/mxmaster.c27c8eaf1095efb933bc.webp",
+    "static/media/bag.png": "/reduxshop/static/media/bag.c89b0c992fc4a9460e0c.png",
+    "index.html": "/reduxshop/index.html",
+    "main.784e28e2.css.map": "/reduxshop/static/css/main.784e28e2.css.map",
+    "main.20f7d526.js.map": "/reduxshop/static/js/main.20f7d526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.784e28e2.css",
+    "static/js/main.20f7d526.js"
+  ]
+}

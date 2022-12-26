@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.784e28e2.css","mappings":"AAAA,KACI,QACJ,CAEA,EACI,iCACJ","sources":["index.css"],"sourcesContent":["body {\r\n    margin : 0;\r\n}\r\n\r\n* {\r\n    font-family: 'Montserrat', sans-serif;\r\n}\r\n\r\n"],"names":[],"sourceRoot":""}
